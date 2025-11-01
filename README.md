@@ -2,7 +2,7 @@
 
 Backend Developer from Nueva Ecija, Philippines 🇵🇭
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=const-toph&color=blue&style=flat-square)
 
 ## 🚀 About Me
 
