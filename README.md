@@ -1,16 +1,16 @@
 # Hi there, I'm Christopher Jay 👋
 
-Backend Developer from Nueva Ecija, Philippines 🇵🇭
+Full-stack Developer from Nueva Ecija, Philippines 🇵🇭
 
 ![Profile Views](https://komarev.com/ghpvc/?username=const-toph&color=blue&style=flat-square)
 
 ## 🚀 About Me
 
-I'm a backend developer focused on building **secure, scalable, and type-safe APIs**. I enjoy working with modern tools and clean architecture principles.
+I'm a Backend-focused Full Stack Developer focused on building **secure, scalable, and type-safe APIs**. I enjoy working with modern tools and clean architecture principles.
 
 ## 🛠️ Tech Stack
 
-**Backend**  
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -47,7 +47,6 @@ I'm a backend developer focused on building **secure, scalable, and type-safe AP
 - **State Management**: Zustand, TanStack Query
 - **Logging**: Pino, Pino-Pretty
 - **Rate Limiting**: hono-rate-limiter
-- **Testing**: tsx, tRPC client
 
 ## 📫 Let's Connect
 
