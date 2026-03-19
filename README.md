@@ -39,14 +39,12 @@ I'm a Backend-focused Full Stack Developer focused on building **secure, scalabl
 
 ## 📚 Libraries I Work With
 
-- **API Development**: Hono.js, Express.js, @hono/zod-openapi
+- **API Development**: Hono.js, Express.js
 - **Type Safety**: TypeScript, Zod validation
 - **Database**: Prisma ORM, PostgreSQL
 - **Authentication**: JWT, bcryptjs, RBAC systems
 - **API Docs**: Scalar OpenAPI, Stoker
 - **State Management**: Zustand, TanStack Query
-- **Logging**: Pino, Pino-Pretty
-- **Rate Limiting**: hono-rate-limiter
 
 ## 📫 Let's Connect
 
